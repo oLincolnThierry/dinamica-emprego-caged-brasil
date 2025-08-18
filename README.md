@@ -31,7 +31,7 @@ A análise exploratória nos permitiu identificar as principais dinâmicas do me
     
     _Coloque a imagem do gráfico de barras aqui:_
     
-    `![Movimentação por Setor Econômico](Gráfico de Pizza da Distribuição por Região.PNG)`
+    `![Movimentação por Setor Econômico](Gráfico de Barras por Atividade Econômica.PNG)`
 
 #### Análise de Correlação das Variáveis Quantitativas
 A matriz de correlação nos ajudou a identificar o grau de relacionamento linear entre as variáveis. Observamos correlações elevadas entre pares como `regiao` e `uf`, o que é esperado. Outras correlações significativas, como entre `saldomovimentacao` e `tipomovimentacao`, sugerem que o tipo de movimentação é um fator determinante para o saldo de empregos. A análise dessas correlações foi crucial para guiar a seleção de features para os modelos preditivos.
