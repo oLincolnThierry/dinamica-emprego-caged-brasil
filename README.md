@@ -22,23 +22,22 @@ O decréscimo do PIB em contraste com a eclosão da pandemia da COVID-19 evidenc
 A análise exploratória nos permitiu identificar as principais dinâmicas do mercado de trabalho:
 
 * **Distribuição de Empregos por Região:** A análise visual mostra a concentração da movimentação de empregos no país, com a região Sudeste liderando em volume.
+  
     
-    _Coloque a imagem do gráfico de pizza aqui:_
-    
-    `![Distribuição por Região](caminho/para/distribuicao_regiao.png)`
+    ![Distribuição por Região](assets/Gráfico%20de%20Pizza%20da%20Distribuição%20por%20Região.PNG)
+
+
     
 * **Movimentação por Setor Econômico:** O setor de Comércio; Reparação de Veículos Automotores e Motocicletas (Seção G) foi o que apresentou o maior volume de movimentação no período.
     
-    _Coloque a imagem do gráfico de barras aqui:_
-    
-    `![Movimentação por Setor Econômico](Gráfico de Barras por Atividade Econômica.PNG)`
+![Atividade Econômica](assets/Gráfico%20de%20Barras%20por%20Atividade%20Econômica.PNG)
 
 #### Análise de Correlação das Variáveis Quantitativas
 A matriz de correlação nos ajudou a identificar o grau de relacionamento linear entre as variáveis. Observamos correlações elevadas entre pares como `regiao` e `uf`, o que é esperado. Outras correlações significativas, como entre `saldomovimentacao` e `tipomovimentacao`, sugerem que o tipo de movimentação é um fator determinante para o saldo de empregos. A análise dessas correlações foi crucial para guiar a seleção de features para os modelos preditivos.
 
 _Coloque a imagem do heatmap aqui:_
 
-`![Matriz de Correlação](caminho/para/Matriz de Correlação.PNG)`
+![Movimentação por Setor Econômico](assets/Matriz%20de%20Correlação.PNG)
 
 ---
 
@@ -59,7 +58,7 @@ A análise de importância de features demonstrou que o modelo está aprendendo 
 
 _Coloque a imagem do gráfico de importância de features aqui:_
 
-`![Importância das Features](Gráfico de Importância das Features do Modelo de ML.png)`
+![Importância das Features do Modelo de ML](assets/Gráfico%20de%20Importância%20das%20Features%20do%20Modelo%20de%20ML.PNG)
 
 ---
 
