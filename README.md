@@ -3,8 +3,6 @@
 ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-orange?logo=pandas)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-ML-green?logo=scikit-learn)
-![PowerBI](https://img.shields.io/badge/Power%20BI-Dashboards-yellow?logo=powerbi)
-
 ---
 
 ## 📄 Visão Geral
@@ -61,4 +59,3 @@ Além dos insights, foi uma oportunidade de aplicar **ETL, EDA e modelagem predi
 - `Scikit-learn`  
 - `Matplotlib`  
 - `Seaborn`  
-- `Power BI`  
