@@ -56,7 +56,6 @@ A análise de importância de features demonstrou que o modelo está aprendendo 
 * **Ocupação e Salário:** A Ocupação e o Valor de Salário Fixo foram as features mais importantes para a previsão de desligamento.
 * **Ocupações Específicas:** O modelo destacou que cargos com alta rotatividade, como "Auxiliar de escritório" e "Vendedor de comércio varejista", são os mais relevantes para a previsão.
 
-_Coloque a imagem do gráfico de importância de features aqui:_
 
 ![Importância das Features do Modelo de ML](assets/Gráfico%20de%20Importância%20das%20Features%20do%20Modelo%20de%20ML.PNG)
 
